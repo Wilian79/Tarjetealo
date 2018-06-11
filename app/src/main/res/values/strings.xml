@@ -3,4 +3,12 @@
 
     <string name="register_btn">Registrarse</string>
     <string name="login_btn">Login</string>
+    <string name="acces_btn">Acceder</string>
+    <string name="input_user">Usuario</string>
+    <string name="input_pwd">Contraseña</string>
+    <string name="input_name">Nombres</string>
+    <string name="input_lastname">Apellidos</string>
+    <string name="input_nickname">Usuario</string>
+    <string name="recovery_pwd">Olvidaste tu contraseña?</string>
+
 </resources>
